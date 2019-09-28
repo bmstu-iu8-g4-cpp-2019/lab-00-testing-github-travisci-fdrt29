@@ -1,3 +1,4 @@
+/* Copyright 2019 BMSTU */
 #include <iostream>
 
 int main()
